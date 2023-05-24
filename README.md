@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipanshu25
-- 👀 I’m interested in Exploring differnt technologies to enhance my development journey
+- 👀 I’m interested in Exploring different technologies to enhance my development journey
 - 🌱 I’m currently learning FullStack Development
 .
 
